@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GISAndroid</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
